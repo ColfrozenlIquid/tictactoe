@@ -1,0 +1,12 @@
+#pragma once
+
+#define SCREEN_WIDTH 720
+#define SCREEN_HEIGHT 720
+
+#define TEXT_BOX_WIDTH SCREEN_WIDTH/3
+
+#define SPRITE_COUNT 4
+
+#define PLAYER_STATE 1
+#define OPPONENT_STATE -1
+#define NO_STATE 0
